@@ -1,5 +1,5 @@
 package dz4;
-
+//  весь код разбирал и писал с помощью подсказок в интернете...
 import java.util.Random;
 import java.util.Scanner;
 
